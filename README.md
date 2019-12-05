@@ -1,0 +1,1 @@
+# Projeto Busca Negócios desenvolvido em React
